@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "RN Challenge Weather",
+    "slug": "rn-challenge-weather",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#CCE3DE"
+    },
+    "ios": {
+      "bundleIdentifier": "com.rnchallengeweather",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.rnchallengeweather",
+      "versionCode": 1
+    }
+  },
+  "name": "RN Challenge Weather"
+}
