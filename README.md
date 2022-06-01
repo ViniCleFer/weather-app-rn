@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Builders" title="#Builders" src="src/assets/logo-builders.png" width="200px" />
+  <img alt="Builders" title="#Builders" src="src/assets/logo.png" width="200px" />
 </h1>
 
 ## 💻 Project
